@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1030504799715",
+    "project_id": "webtoonvault",
+    "storage_bucket": "webtoonvault.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030504799715:android:ff02df897e135c5b8554d6",
+        "android_client_info": {
+          "package_name": "com.example.webtoonvault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030504799715-h5rtjtpvddvgkpgepr3uiljuukpcp4os.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.webtoonvault",
+            "certificate_hash": "c6b059fb54d5142fe16e2d3a6c079f56fc4644db"
+          }
+        },
+        {
+          "client_id": "1030504799715-dhfb9acvngh0f0qhd2lacrcb21ml9jgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2-mJ01RP17nNy0rcxgVW0MUXkVTk7Yrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030504799715-dhfb9acvngh0f0qhd2lacrcb21ml9jgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
