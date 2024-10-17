@@ -11,7 +11,11 @@
 * Responsive UI using Jetpack Compose.
 
 ### Screenshots
-
+![WhatsApp Image 2024-10-18 at 01 23 05_2abd92cb](https://github.com/user-attachments/assets/7f1133ba-eee7-45c4-9e31-21b396d99d4e)
+![Home2](https://github.com/user-attachments/assets/ad54485d-c027-42ac-b0f5-09de392f1d3a)
+![Details](https://github.com/user-attachments/assets/8974db01-132a-421b-b069-b85bc8f3f42f)
+![Rating](https://github.com/user-attachments/assets/0517c396-1a13-4c8f-ab86-513e8db2533c)
+![Favorites](https://github.com/user-attachments/assets/03a4eda3-6766-4833-a559-2f94b8403da9)
 
 ### Technologies Used
 * Kotlin: Programming language.
